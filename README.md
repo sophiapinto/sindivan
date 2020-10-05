@@ -1,3 +1,6 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b035e4c5-08bd-408d-a05a-ec1fe69cb5d7/deploy-status)](https://app.netlify.com/sites/sindifeirantesma/deploys)
+
+
 # Hello!
 
 ## If you want to run this code just:
