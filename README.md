@@ -8,7 +8,7 @@ From your command line, first clone sindivan:
 
 Clone this repository
 
--git clone https://github.com/sophiapinto/sindivan.git
+- git clone https://github.com/sophiapinto/sindivan.git
 - #Go into the repository
 - $ cd sindivan
 
