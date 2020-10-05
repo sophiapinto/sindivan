@@ -9,11 +9,8 @@ From your command line, first clone sindivan:
 Clone this repository
 
 - git clone https://github.com/sophiapinto/sindivan.git
-- #Go into the repository
-- $ cd sindivan
-
-#Remove current origin repository
-$ git remote remove origin
+- $ cd sindivan // Open the repository 
+- $ git remote remove origin //Remove current origin repository
 
 
 ### Install the dependencies
@@ -22,20 +19,16 @@ Install the dependencies either using NPM or Yarn:
 
 #### Using NPM:
 
-#Install dependencies
-$ npm install
+$ npm install // Install dependencies
 
-#Start development server
-$ npm start
+$ npm start // Start development server
 
 
 #### Yarn:
 
-#Install dependencies
-$ yarn
+$ yarn // Install dependencies
+$ yarn start // Start development server
 
-#Start development server
-$ yarn start
 
 ### Website running
 
